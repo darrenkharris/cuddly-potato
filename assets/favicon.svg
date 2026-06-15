@@ -1,0 +1,6 @@
+<!-- EDIT: Replace this SVG with your own favicon design or a proper .ico file -->
+<!-- This is a simple placeholder using Darren's initials D·H in the site colours -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#0D1B2A"/>
+  <text x="16" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="14" fill="#0E9AA7">DH</text>
+</svg>
